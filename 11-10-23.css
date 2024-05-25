@@ -1,0 +1,28 @@
+h1 {
+	color: blue;
+	font-size: 70px;
+}
+
+#green {
+	color: green;
+	text-decoration: underline;
+}
+
+h2.red {
+	color: red;
+	font-size: 50px;
+}
+
+h2.green {
+	color: green;
+	font-size: 50px;
+}
+
+#smaller {
+	font-size: 30px;
+}
+
+body {
+	text-align: center;
+	background-color: black;
+}
